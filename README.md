@@ -5,3 +5,8 @@ _Install the Dependencies_
 
 _Start the IPython Notebook_
 `bin/up`
+
+_Doing the Regression_
+
+@Asch, plz help!
+
